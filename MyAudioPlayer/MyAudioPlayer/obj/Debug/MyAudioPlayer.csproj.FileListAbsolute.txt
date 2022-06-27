@@ -1,0 +1,10 @@
+C:\Users\itstart.ITSTEP\source\repos\MyAudioPlayer\MyAudioPlayer\bin\Debug\MyAudioPlayer.exe.config
+C:\Users\itstart.ITSTEP\source\repos\MyAudioPlayer\MyAudioPlayer\bin\Debug\MyAudioPlayer.exe
+C:\Users\itstart.ITSTEP\source\repos\MyAudioPlayer\MyAudioPlayer\bin\Debug\MyAudioPlayer.pdb
+C:\Users\itstart.ITSTEP\source\repos\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.csprojAssemblyReference.cache
+C:\Users\itstart.ITSTEP\source\repos\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.Form1.resources
+C:\Users\itstart.ITSTEP\source\repos\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.Properties.Resources.resources
+C:\Users\itstart.ITSTEP\source\repos\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.csproj.GenerateResource.cache
+C:\Users\itstart.ITSTEP\source\repos\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\itstart.ITSTEP\source\repos\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.exe
+C:\Users\itstart.ITSTEP\source\repos\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.pdb
