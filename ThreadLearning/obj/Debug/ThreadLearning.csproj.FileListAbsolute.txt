@@ -1,0 +1,7 @@
+C:\Users\itstart.ITSTEP\source\repos\ThreadLearning\bin\Debug\ThreadLearning.exe.config
+C:\Users\itstart.ITSTEP\source\repos\ThreadLearning\bin\Debug\ThreadLearning.exe
+C:\Users\itstart.ITSTEP\source\repos\ThreadLearning\bin\Debug\ThreadLearning.pdb
+C:\Users\itstart.ITSTEP\source\repos\ThreadLearning\obj\Debug\ThreadLearning.csprojAssemblyReference.cache
+C:\Users\itstart.ITSTEP\source\repos\ThreadLearning\obj\Debug\ThreadLearning.csproj.CoreCompileInputs.cache
+C:\Users\itstart.ITSTEP\source\repos\ThreadLearning\obj\Debug\ThreadLearning.exe
+C:\Users\itstart.ITSTEP\source\repos\ThreadLearning\obj\Debug\ThreadLearning.pdb
