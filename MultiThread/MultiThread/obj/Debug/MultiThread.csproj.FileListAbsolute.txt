@@ -1,0 +1,7 @@
+C:\Users\Дошан\source\repos\system_programming\MultiThread\MultiThread\bin\Debug\MultiThread.exe.config
+C:\Users\Дошан\source\repos\system_programming\MultiThread\MultiThread\bin\Debug\MultiThread.exe
+C:\Users\Дошан\source\repos\system_programming\MultiThread\MultiThread\bin\Debug\MultiThread.pdb
+C:\Users\Дошан\source\repos\system_programming\MultiThread\MultiThread\obj\Debug\MultiThread.csproj.AssemblyReference.cache
+C:\Users\Дошан\source\repos\system_programming\MultiThread\MultiThread\obj\Debug\MultiThread.csproj.CoreCompileInputs.cache
+C:\Users\Дошан\source\repos\system_programming\MultiThread\MultiThread\obj\Debug\MultiThread.exe
+C:\Users\Дошан\source\repos\system_programming\MultiThread\MultiThread\obj\Debug\MultiThread.pdb
