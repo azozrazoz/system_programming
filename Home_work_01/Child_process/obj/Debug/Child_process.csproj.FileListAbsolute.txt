@@ -1,6 +1,0 @@
-C:\Users\Дошан\source\repos\system_programming\Home_work_01\Child_process\bin\Debug\Child_process.exe.config
-C:\Users\Дошан\source\repos\system_programming\Home_work_01\Child_process\bin\Debug\Child_process.exe
-C:\Users\Дошан\source\repos\system_programming\Home_work_01\Child_process\bin\Debug\Child_process.pdb
-C:\Users\Дошан\source\repos\system_programming\Home_work_01\Child_process\obj\Debug\Child_process.csproj.CoreCompileInputs.cache
-C:\Users\Дошан\source\repos\system_programming\Home_work_01\Child_process\obj\Debug\Child_process.exe
-C:\Users\Дошан\source\repos\system_programming\Home_work_01\Child_process\obj\Debug\Child_process.pdb

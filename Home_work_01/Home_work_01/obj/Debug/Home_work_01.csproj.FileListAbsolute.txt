@@ -1,7 +1,0 @@
-C:\Users\Дошан\source\repos\system_programming\Home_work_01\Home_work_01\bin\Debug\Home_work_01.exe.config
-C:\Users\Дошан\source\repos\system_programming\Home_work_01\Home_work_01\bin\Debug\Home_work_01.exe
-C:\Users\Дошан\source\repos\system_programming\Home_work_01\Home_work_01\bin\Debug\Home_work_01.pdb
-C:\Users\Дошан\source\repos\system_programming\Home_work_01\Home_work_01\obj\Debug\Home_work_01.csproj.AssemblyReference.cache
-C:\Users\Дошан\source\repos\system_programming\Home_work_01\Home_work_01\obj\Debug\Home_work_01.csproj.CoreCompileInputs.cache
-C:\Users\Дошан\source\repos\system_programming\Home_work_01\Home_work_01\obj\Debug\Home_work_01.exe
-C:\Users\Дошан\source\repos\system_programming\Home_work_01\Home_work_01\obj\Debug\Home_work_01.pdb
