@@ -1,0 +1,10 @@
+C:\Users\itstart.ITSTEP\source\repos\Home_work_04\Home_work_04\bin\Debug\Home_work_04.exe.config
+C:\Users\itstart.ITSTEP\source\repos\Home_work_04\Home_work_04\bin\Debug\Home_work_04.exe
+C:\Users\itstart.ITSTEP\source\repos\Home_work_04\Home_work_04\bin\Debug\Home_work_04.pdb
+C:\Users\itstart.ITSTEP\source\repos\Home_work_04\Home_work_04\obj\Debug\Home_work_04.csprojAssemblyReference.cache
+C:\Users\itstart.ITSTEP\source\repos\Home_work_04\Home_work_04\obj\Debug\Home_work_04.Form1.resources
+C:\Users\itstart.ITSTEP\source\repos\Home_work_04\Home_work_04\obj\Debug\Home_work_04.Properties.Resources.resources
+C:\Users\itstart.ITSTEP\source\repos\Home_work_04\Home_work_04\obj\Debug\Home_work_04.csproj.GenerateResource.cache
+C:\Users\itstart.ITSTEP\source\repos\Home_work_04\Home_work_04\obj\Debug\Home_work_04.csproj.CoreCompileInputs.cache
+C:\Users\itstart.ITSTEP\source\repos\Home_work_04\Home_work_04\obj\Debug\Home_work_04.exe
+C:\Users\itstart.ITSTEP\source\repos\Home_work_04\Home_work_04\obj\Debug\Home_work_04.pdb
