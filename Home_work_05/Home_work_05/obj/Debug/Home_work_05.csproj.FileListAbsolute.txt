@@ -1,0 +1,16 @@
+C:\Users\itstart.ITSTEP\source\repos\Home_work_05\Home_work_05\bin\Debug\Home_work_05.exe.config
+C:\Users\itstart.ITSTEP\source\repos\Home_work_05\Home_work_05\bin\Debug\Home_work_05.exe
+C:\Users\itstart.ITSTEP\source\repos\Home_work_05\Home_work_05\bin\Debug\Home_work_05.pdb
+C:\Users\itstart.ITSTEP\source\repos\Home_work_05\Home_work_05\obj\Debug\Home_work_05.csprojAssemblyReference.cache
+C:\Users\itstart.ITSTEP\source\repos\Home_work_05\Home_work_05\obj\Debug\Home_work_05.csproj.CoreCompileInputs.cache
+C:\Users\itstart.ITSTEP\source\repos\Home_work_05\Home_work_05\obj\Debug\Home_work_05.exe
+C:\Users\itstart.ITSTEP\source\repos\Home_work_05\Home_work_05\obj\Debug\Home_work_05.pdb
+C:\Users\itstart.ITSTEP\source\repos\Home_work_05\Home_work_05\obj\Debug\Home_work_05.csproj.CopyComplete
+D:\Programming\system_programming\system_programming-Home_work_05\Home_work_05\Home_work_05\bin\Debug\Home_work_05.exe.config
+D:\Programming\system_programming\system_programming-Home_work_05\Home_work_05\Home_work_05\bin\Debug\Home_work_05.exe
+D:\Programming\system_programming\system_programming-Home_work_05\Home_work_05\Home_work_05\bin\Debug\Home_work_05.pdb
+D:\Programming\system_programming\system_programming-Home_work_05\Home_work_05\Home_work_05\obj\Debug\Home_work_05.csproj.AssemblyReference.cache
+D:\Programming\system_programming\system_programming-Home_work_05\Home_work_05\Home_work_05\obj\Debug\Home_work_05.csproj.CoreCompileInputs.cache
+D:\Programming\system_programming\system_programming-Home_work_05\Home_work_05\Home_work_05\obj\Debug\Home_work_05.csproj.CopyComplete
+D:\Programming\system_programming\system_programming-Home_work_05\Home_work_05\Home_work_05\obj\Debug\Home_work_05.exe
+D:\Programming\system_programming\system_programming-Home_work_05\Home_work_05\Home_work_05\obj\Debug\Home_work_05.pdb
